@@ -1,0 +1,8 @@
+{
+    "pages": [
+        "pages/button/index"
+    ],
+    "window": {
+        "navigationBarTitleText": "mozUI组件"
+    }
+}
